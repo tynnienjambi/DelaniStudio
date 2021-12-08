@@ -24,4 +24,4 @@ A webpage for Delani studio which gives a detailed account about what they are, 
 > MIT License &copy 2021 Tinisha.N.Kamau 
 ​
 ## Collaborate
-To collaborate, reach me on [Email](njambik350@gmail.com)
+To collaborate, reach me on Email.(njambik350@gmail.com)
